@@ -1,0 +1,28 @@
+{ 
+   "id":"eb85349d-03c3-44f4-a77b-824f7221d116",
+   "seatbid":[ 
+      { 
+         "bid":[ 
+            { 
+               "id":"1fwdsg1gdsgwfdb",
+               "impid":"23fsdfsdg-12312fds-44f4-12dfsfa-824f7221d116",
+               "price":1.1200,
+               "adid":"1378ygfvn928ouyghf19oiuhg03r",
+               "nurl":"http://example.com/win/1378ygfvn928ouyghf19oiuhg03r?won=${AUCTION_PRICE}&impid={AUCTION_IMP_ID}&auction=${AUCTION_ID}&bidid=${AUCTON_BID_ID}",
+               "adm":"<iframe src=\"http://example.com/render/1378ygfvn928ouyghf19oiuhg03r\" width=\"320\" height=\"50\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" topmargin=\"0\" leftmargin=\"0\"></iframe>",
+               "adomain":[ 
+                  "adomain.com"
+               ],
+               "cid":"iy4wuygh7i3rukgh91ol",
+               "crid":"iy4wuygh7i3rukgh91ol_123124",
+               "ext":
+                 {
+                   "imptrackers": ["https://tracker1.com/ad?price=${AUCTION_PRICE}&cur=${AUCTION_CURRENCY}", "https://tracker1.com/ad?avid=[ADVERTISER_ID]&pricePaid=[PRICE_PAID]&priceBid=[BID_PRICE]"]
+                 }
+            }
+         ],
+         "seat":"772"
+      }
+   ],
+   "cur":"USD"
+}
