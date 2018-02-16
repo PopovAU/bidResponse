@@ -1,0 +1,72 @@
+{
+"id":"d5260eec-{{$timestamp}}",
+"imp":[{
+    "id":"e58013b7-3e6e-4bcf-9121-1bcedeeb319c",
+    "banner":{
+        "w":728,
+        "h":90,
+        "battr":[5,8,9,10,14],
+        "mimes":["image/jpg","image/gif","image/png"],
+        "api":[5,3]},
+    "displaymanager":"appodeal",
+    "displaymanagerver":"1.15.8",
+    "instl":0,
+    "tagid":"1",
+    "bidfloor":0.01,
+    "bidfloorcur":"USD"}],
+"app":{
+    "id":"16848",
+    "name":"Фантастика",
+    "bundle":"ru.kuchaknig.android.freebooks.scifi",
+    "storeurl":"https://play.google.com/store/apps/details?id=ru.kuchaknig.android.freebooks.scifi&hl=en",
+    "cat":["IAB1-1 (Books & Literature)"],
+    "ver":"2.9.37",
+    "paid":0,
+    "publisher":{
+        "id":"618",
+        "name":"Роман"},
+    "ext":{"bcat":[],
+    "badv":[],
+    "packagename":"ru.kuchaknig.android.freebooks.scifi"}
+ 
+},
+"device":{
+    "ua":"Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19(KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19",
+    "geo":{
+        "lat":56.8519,
+        "lon":60.6122,
+        "type":2,
+        "country":"RUS",
+        "zip":"620002",
+        "utcoffset":300},
+    "lmt":0,
+    "ip":"213.87.249.67",
+    "devicetype":4,
+    "make":"DOOGEE",
+    "model":"DOOGEE HT16",
+    "os":"android",
+    "osv":"6.0",
+    "hwv":"DOOGEE HT16",
+    "h":1280,
+    "w":720,
+    "js":1,
+    "language":"ru",
+    "carrier":"250-01",
+    "connectiontype":3,
+    "ifa":"6d670e54-ffe3-4318-9100-dd600ee040c4"},
+"user":{
+    "gender":"F",
+    "geo":{
+        "lat":56.8519,
+        "lon":60.6122,
+        "type":2,
+        "country":"RUS",
+        "zip":"620002",
+        "utcoffset":300}},
+"at":2,
+"tmax":500,
+"allimps":0,
+"cur":["USD"],
+"bcat":[],
+"badv":[]
+}

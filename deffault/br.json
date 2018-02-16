@@ -1,0 +1,117 @@
+{
+  "id": "4c4b9e54-6709-4289-b825-ac5eab7c7e28",
+  "imp": [
+    {
+      "id": "b087f42a-46ad-494e-8b45-54f47960294b",
+      "video": {
+        "mimes": [
+          "video/mp4"
+        ],
+        "minduration": 5,
+        "maxduration": 30,
+        "protocols": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "w": 480,
+        "h": 800,
+        "linearity": 1,
+        "sequence": 1,
+        "playbackmethod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "delivery": [
+          1,
+          2
+        ],
+        "api": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "displaymanager": "appodeal",
+      "displaymanagerver": "1.15.8",
+      "tagid": "36",
+      "bidfloor": 0.03,
+      "bidfloorcur": "USD"
+    }
+  ],
+  "app": {
+    "bundle": "com.maysalward.Dominoes",
+    "storeurl": "https://play.google.ru/store/apps/details?id=com.maysalward.Dominoes&hl=en",
+    "ver": "4.7",
+    "id": "49195",
+    "name": "Dominoes Android",
+    "cat": [
+      "IAB13"
+    ],
+    "publisher": {
+      "id": "1173",
+      "name": "Nour KHRAIS"
+    },
+    "ext": {
+      "bcat": [],
+      "badv": [],
+      "packagename": "com.maysalward.Dominoes"
+    }
+  },
+  "device": {
+    "ua": "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19(KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19",
+    "ip": "197.252.15.8",
+    "geo": {
+      "lat": 15,
+      "lon": 30,
+      "ipservice": 3,
+      "country": "RUS",
+      "type": 2,
+      "utcoffset": 180,
+      "ext": {
+        "old_geo": {
+          "lat": 15,
+          "lon": 30,
+          "country": "RU",
+          "type": 2,
+          "utcoffset": 180
+        }
+      }
+    },
+    "carrier": "634-07",
+    "language": "ar",
+    "make": "samsung",
+    "model": "samsung SM-G361H",
+    "os": "android",
+    "osv": "5.1.1",
+    "js": 1,
+    "connectiontype": 3,
+    "devicetype": 4,
+    "ifa": "706e8785-47fa-49d7-a7ac-b5113fed2842",
+    "h": 800,
+    "w": 480,
+    "hwv": "samsung SM-G361H"
+  },
+  "user": {
+    "gender": "O",
+    "geo": {
+      "lat": 15,
+      "lon": 30,
+      "country": "RU",
+      "type": 2,
+      "utcoffset": 180
+    }
+  },
+  "at": 2,
+  "tmax": 500,
+  "cur": [
+    "USD"
+  ]
+}

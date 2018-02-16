@@ -1,0 +1,24 @@
+{
+    "id":"485714f1-2371-4c27-ac72-7833f666592f",
+    "seatbid":[{
+        "bid":[{
+            "id":"Lm9DtQ9PJlngqsc8",
+            "impid":"44c4fee3-1db4-4505-a4be-b1d9a31eee3e",
+            "price":10,
+            "adid":"1.1.9472",
+            "nurl":"http://eu.rtb.aio.media:7655/win?brid=485714f1-2371-4c27-ac72-7833f666592f&impid=44c4fee3-1db4-4505-a4be-b1d9a31eee3e&price=${AUCTION_PRICE}",
+
+			"adm": "<VAST xsi:noNamespaceSchemaLocation=\"vast.xsd\" version=\"2.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><Ad id=\"1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9\"><InLine><AdSystem>AIO</AdSystem><AdTitle></AdTitle><Impression><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=impression]]></Impression><Impression><![CDATA[https://track.rutarget.ru/win?ssp=ext&cid=8706&t=35145&__r=456456&response=pixel&redirect=https%3A%2F%2Fad.adriver.ru%2Fcgi-bin%2Frle.cgi%3Fsid%3D1%26bt%3D21%26ad%3D637779%26pid%3D2617645%26bid%3D5213475%26bn%3D5213475%26rnd%3D286410615]]></Impression><Creatives><Creative sequence=\"1\"><Linear><Duration>00:00:15</Duration><TrackingEvents><Tracking event=\"start\"><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=video_start]]></Tracking><Tracking event=\"firstQuartile\"><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=video_25]]></Tracking><Tracking event=\"midpoint\"><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=video_50]]></Tracking><Tracking event=\"thirdQuartile\"><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=video_75]]></Tracking><Tracking event=\"complete\"><![CDATA[https://api.aio.media/stat?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9&et=video_end]]></Tracking></TrackingEvents><VideoClicks><ClickThrough><![CDATA[https://api.aio.media/clickad?devid=454296abb9294a17516c1465a0d6d911&cid=1290&appid=AIO_5971FB0B20548&web=1&aioid=1290-454296abb9294a17516c1465a0d6d911-59f1b78c002b9]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery=\"progressive\" width=\"640\" height=\"360\" type=\"video/mp4\" bitrate=\"300\" scalable=\"true\" maintainAspectRatio=\"false\"><![CDATA[https://static.aio.media/content/20170929/aio_226_59ce1105232fb.mp4]]></MediaFile></MediaFiles></Linear></Creative></Creatives><Extensions/></InLine></Ad></VAST>",
+			
+            "adomain":["murka.helpshift.com"],
+            "iurl":"https://exchange-creative-y2htehx67uduimyg5ie.test.com/media/2017/05/6b3d673f-4418-4abc-a448-c70a45165648.jpg",
+            "cid":"1.1.1860",
+            "crid":"1.1.1860.9472",
+            "cat":["IAB9-7"],
+            "attr":[6],
+            "h":720,
+            "w":1280
+            }],
+    "seat":"164"
+    }]
+}

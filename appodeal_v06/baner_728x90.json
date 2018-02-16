@@ -1,0 +1,24 @@
+{
+    "id": "d5260eec-1510752455",
+    "seatbid": [
+        {
+            "bid": [
+                {
+                    "id": "d5260eec-1510752455:e58013b7-3e6e-4bcf-9121-1bcedeeb319c",
+                    "impid": "e58013b7-3e6e-4bcf-9121-1bcedeeb319c",
+                    "price": 0.1,
+                    "adid": "1",
+                    "nurl": "http://eu.rtb.aio.media:7655/win?brid=d5260eec-1510752455&impid=e58013b7-3e6e-4bcf-9121-1bcedeeb319c&price=${AUCTION_PRICE}",
+                    "adm": "<iframe src=\"http://static.dev.aio.media/creatives/s/choiz/dose/728x90/index.html\" width=\"728\" height=\"90\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" topmargin=\"0\" leftmargin=\"0\"></iframe>",
+                    "adomain": [
+                        "https://choiz.me"
+                    ],
+                    "cid": "choiz",
+                    "crid": "1264"
+                }
+            ],
+            "seat": "12385"
+        }
+    ],
+    "cur": "USD"
+}

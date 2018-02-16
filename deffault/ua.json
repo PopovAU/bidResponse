@@ -1,0 +1,57 @@
+{
+  "bidderInterface": "iface.http",
+  "externalId": 0,
+  "account": [
+    "hello",
+    "world"
+  ],
+  "creatives": [
+    {
+      "format": "0x0",
+      "id": 1,
+      "name": "staropramen_RUS_640_360",
+      "providerConfig": {
+        "appodeal": {
+          "adid": "1",
+          "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<VAST version=\"3.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"/va/vast3_draft.xsd\"><Ad><Wrapper><AdSystem>Adwise</AdSystem><VASTAdTagURI><![CDATA[https://budru.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=im&a.si=4576&a.te=6&a.he=1&a.wi=1&a.hr=X&a.ra=%Random&a.ycp=co%3A100%7Ccd%3A1%7Cst%3A0%7Css%3A0]]></VASTAdTagURI><Impression id=\"DART\"><![CDATA[https://franecki.net/content/static/1c9a43e83c6cecbccac290bcda5cfc43/7337.png]]></Impression><Impression id=\"C_DART0\"><![CDATA[https://api.aio.media/track.php?et=impression&appid=AIO_598DAF1647A5B&cid=1250]]></Impression><Creatives><Creative><Linear><VideoClicks><ClickTracking><![CDATA[https://quitzon.net/content/static/1c9a43e83c6cecbccac290bcda5cfc43/7337.html?dmpguid=&dmphash=&rd=0]]></ClickTracking></VideoClicks></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+          "adomain": [
+            "staropramen.com"
+          ],
+          "crid": "staropramen_RUS_640_360",
+          "nurl": "http://{{rtbkit_server}}:7655/win?brid=%{bidrequest.id}&impid=%{imp.id}&price=${AUCTION_PRICE}",
+          "iurl": "http://www.gnu.org",
+       "mimeTypes": [
+          "video/mp4"
+    ]
+
+        }
+      },
+      "type": "video"
+    }
+  ],
+  "providerConfig": {
+    "appodeal": {
+      "seat": "123",
+      "iurl": "http://irl.com"
+    }
+  },
+  "hostFilter": {
+    "exclude": [
+      ".ru"
+    ]
+  },
+  "locationFilter": {
+    "include": [
+      "RUS"
+    ]
+  },
+  "segmentFilter": {
+    "categories": {
+      "include": [
+        "IAB17",
+        "IAB1-5",
+        "IAB12"
+      ], "exclude": []
+    }
+  }
+}
